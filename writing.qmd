@@ -1,0 +1,27 @@
+---
+title: "Writing"
+description: "Essays and technical notes on complex systems, network science, agent-based modeling, computational economics, and public policy."
+page-layout: full
+toc: false
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [title, date, description, categories, reading-time]
+  # feed: true  # TODO: enable once posts carry real publication dates (see posts/*.qmd)
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/writing.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/writing.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/textos.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/writing.html">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="pt_BR">
+---
+
+This section collects longer-form essays and technical notes — not a personal or news blog — on complex systems, network science, agent-based modeling, computational economics, and public policy. Posts may include equations, code, data visualizations, and references, and are cited in [`references/references.bib`](references/references.bib) where relevant.
+
+The entries below are currently **planned placeholders**, marked as such, rather than published essays.

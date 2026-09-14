@@ -1,0 +1,73 @@
+---
+title: "Publications"
+description: "Thesis, peer-reviewed publications, institutional publications, working papers, and presentations."
+page-layout: article
+toc: true
+toc-location: right
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/publications.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/publications.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/publicacoes.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/publications.html">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="pt_BR">
+---
+
+## Thesis
+
+::: {.pub-entry}
+<div class="pub-title">Projeto de Classificadores de Padrões Baseados em Protótipos Usando Evolução Diferencial</div>
+<div class="pub-meta">
+Luiz Soares de Andrade Filho · Master's thesis, 2014<br>
+Programa de Pós-Graduação em Engenharia de Teleinformática, Universidade Federal do Ceará (UFC)<br>
+Concentration area: Signals and Systems · Advisor: Prof. Dr. Guilherme de Alencar Barreto
+</div>
+<div class="pub-meta">
+*English (working translation): "Design of Prototype-Based Pattern Classifiers Using Differential Evolution."*
+</div>
+<div class="pub-links">
+[PDF — UFC Institutional Repository](https://repositorio.ufc.br/bitstream/riufc/12478/1/2014_dis_lsandradefilho.pdf)
+</div>
+:::
+
+This thesis develops prototype-based pattern classifiers whose prototypes are optimized using differential evolution, a global, population-based optimization method. This work is the origin of my background in computational intelligence, pattern recognition, and optimization methods that now inform my interest in computational and agent-based approaches to economics and public policy.
+
+## Peer-Reviewed Publications
+
+::: {.empty-section}
+No peer-reviewed publications yet. [CONTENT TO BE PROVIDED]
+:::
+
+## Institutional Publications
+
+::: {.pub-entry}
+<div class="pub-title">Manual do Ofertante (Vendor's Manual), Version 3.0</div>
+<div class="pub-meta">
+Brazilian Public Software (Software Público Brasileiro) team · Brazilian Ministry of Planning · October 2016
+</div>
+<div class="pub-meta">
+Role: technical lead for this update of the manual, as part of the Brazilian Public Software team.
+</div>
+<div class="pub-links">
+[PDF — Portal do Software Público Brasileiro](https://softwarepublico.gov.br/social/articles/0004/7028/Manual_do_Ofertante.pdf)
+</div>
+:::
+
+## Working Papers
+
+::: {.empty-section}
+None yet. [CONTENT TO BE PROVIDED]
+:::
+
+## Research Reports
+
+::: {.empty-section}
+None yet. [CONTENT TO BE PROVIDED]
+:::
+
+## Conference Presentations
+
+::: {.empty-section}
+None yet. [CONTENT TO BE PROVIDED]
+:::

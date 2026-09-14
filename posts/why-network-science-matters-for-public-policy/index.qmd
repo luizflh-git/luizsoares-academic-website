@@ -1,0 +1,22 @@
+---
+title: "Why Network Science Matters for Public Policy"
+description: "Placeholder — a planned essay on how network-analytic tools can inform the design and evaluation of public policy."
+date: 2026-09-13
+categories: [Network Science, Public Policy, English]
+draft: false
+---
+
+::: {.editorial-note}
+Planned, not yet written — outline below, to be replaced with full content.
+:::
+
+## Intended scope
+
+Public policy is often analyzed with tools built for aggregates — averages, totals, regression coefficients — that can obscure how outcomes actually propagate through networks of institutions, organizations, and people. This essay will outline:
+
+- Where network structure (rather than aggregate statistics) plausibly matters for how public programs succeed or fail.
+- A short, non-technical introduction to a few core network concepts (e.g., centrality, connectivity, community structure) aimed at a public-policy audience.
+- Concrete, publicly documentable examples of network-analytic thinking applied to administrative or institutional networks.
+- Open questions connecting this to the [current research questions](../../research.qmd#current-research-questions) on this site.
+
+*[CONTENT TO BE PROVIDED]*

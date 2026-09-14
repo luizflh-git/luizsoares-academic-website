@@ -1,0 +1,383 @@
+/* =============================================================================
+   styles.css — Luiz Soares, personal academic website
+   A restrained, academic, minimal layer on top of the "cosmo" Bootstrap theme.
+   Fonts are system stacks only (no external requests) for speed, portability,
+   and to keep the site fully self-contained.
+   ============================================================================= */
+
+:root {
+  /* Palette: warm off-white ground, ink text, single muted navy accent. */
+  --color-bg:        #fbfaf7;
+  --color-bg-alt:     #f3f1ea;
+  --color-text:       #1e1e1c;
+  --color-text-muted: #5b5a54;
+  --color-accent:     #24384f;
+  --color-accent-2:   #6b5a3e; /* secondary, used sparingly (tags, TBV notes) */
+  --color-border:     #e3ddd0;
+  --color-link:       #24384f;
+
+  --font-serif: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+               sans-serif;
+
+  --max-text-width: 720px;
+}
+
+/* ---------------------------------------------------------------------------
+   Base
+   --------------------------------------------------------------------------- */
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  font-size: 17px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  color: var(--color-text);
+  letter-spacing: 0.01em;
+}
+
+h1.title {
+  font-weight: 600;
+}
+
+h2 {
+  margin-top: 2.75em;
+  padding-top: 0.6em;
+  border-top: 1px solid var(--color-border);
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.18rem;
+  margin-top: 1.8em;
+}
+
+p, li {
+  color: var(--color-text);
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: underline;
+  text-decoration-color: var(--color-border);
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  text-decoration-color: var(--color-accent);
+}
+
+main.content {
+  max-width: 860px;
+}
+
+.quarto-title-banner {
+  display: none;
+}
+
+/* ---------------------------------------------------------------------------
+   Navbar & footer — quiet, text-forward
+   --------------------------------------------------------------------------- */
+
+.navbar {
+  background-color: var(--color-bg) !important;
+  border-bottom: 1px solid var(--color-border);
+  box-shadow: none !important;
+}
+
+.navbar-brand {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  color: var(--color-text) !important;
+}
+
+.navbar .nav-link {
+  color: var(--color-text) !important;
+  font-size: 0.95rem;
+}
+
+.navbar .nav-link:hover {
+  color: var(--color-accent) !important;
+}
+
+.navbar-toggler {
+  border-color: var(--color-border) !important;
+}
+
+/* Language switcher (injected by assets/js/lang-switch.js) */
+.lang-switch-inner {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-size: 0.85rem;
+}
+
+.lang-link {
+  color: var(--color-text-muted) !important;
+  text-decoration: none !important;
+}
+
+.lang-link.active {
+  color: var(--color-text) !important;
+  font-weight: 600;
+}
+
+.lang-link:hover {
+  color: var(--color-accent) !important;
+}
+
+.lang-sep {
+  color: var(--color-border);
+}
+
+.nav-footer {
+  border-top: 1px solid var(--color-border);
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  background-color: var(--color-bg);
+}
+
+.nav-footer a {
+  color: var(--color-text-muted);
+}
+
+/* ---------------------------------------------------------------------------
+   Homepage hero
+   --------------------------------------------------------------------------- */
+
+.hero {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+  margin: 1rem 0 2rem 0;
+  flex-wrap: wrap;
+}
+
+.hero-text {
+  flex: 1 1 420px;
+  min-width: 260px;
+}
+
+.hero-name {
+  font-family: var(--font-serif);
+  font-size: 2.4rem;
+  font-weight: 600;
+  margin-bottom: 0.15em;
+  line-height: 1.15;
+}
+
+.hero-affiliation {
+  font-size: 1.05rem;
+  color: var(--color-text-muted);
+  margin-bottom: 0.6em;
+}
+
+.hero-tagline {
+  font-size: 0.98rem;
+  color: var(--color-accent);
+  letter-spacing: 0.02em;
+  margin-bottom: 1.4em;
+}
+
+.photo-placeholder,
+.profile-photo {
+  flex: 0 0 160px;
+  width: 160px;
+  height: 160px;
+  border-radius: 6px;
+}
+
+.photo-placeholder {
+  background-color: var(--color-bg-alt);
+  border: 1px dashed var(--color-border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-text-muted);
+  font-size: 0.8rem;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.profile-photo p {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.profile-photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid var(--color-border);
+}
+
+.profile-links {
+  font-size: 0.92rem;
+  color: var(--color-text-muted);
+  margin: 1em 0 1.6em 0;
+  line-height: 1.9;
+}
+
+.profile-links .sep {
+  margin: 0 0.5em;
+  color: var(--color-border);
+}
+
+.quick-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.2em 0 0.4em 0;
+}
+
+.quick-links a {
+  display: inline-block;
+  padding: 0.4em 0.95em;
+  border: 1px solid var(--color-accent);
+  border-radius: 3px;
+  color: var(--color-accent);
+  text-decoration: none;
+  font-size: 0.92rem;
+}
+
+.quick-links a:hover {
+  background-color: var(--color-accent);
+  color: var(--color-bg);
+}
+
+/* ---------------------------------------------------------------------------
+   Small reusable notes / badges
+   --------------------------------------------------------------------------- */
+
+.tbv {
+  color: var(--color-accent-2);
+  font-style: italic;
+}
+
+.editorial-note {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  font-style: italic;
+  margin: 0.8em 0 1.4em 0;
+}
+
+/* ---------------------------------------------------------------------------
+   Publication / CV entries
+   --------------------------------------------------------------------------- */
+
+.pub-entry, .project-entry, .cv-entry {
+  margin-bottom: 1.6em;
+  padding-bottom: 1.2em;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.pub-entry:last-child,
+.project-entry:last-child,
+.cv-entry:last-child {
+  border-bottom: none;
+}
+
+.pub-title {
+  font-weight: 600;
+  font-size: 1.02rem;
+}
+
+.pub-meta {
+  color: var(--color-text-muted);
+  font-size: 0.92rem;
+  margin: 0.15em 0 0.4em 0;
+}
+
+.pub-links a {
+  font-size: 0.88rem;
+  margin-right: 1em;
+}
+
+.empty-section {
+  color: var(--color-text-muted);
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+/* ---------------------------------------------------------------------------
+   CV specifics
+   --------------------------------------------------------------------------- */
+
+.cv-download {
+  display: inline-block;
+  margin: 0.8em 0 1.8em 0;
+  padding: 0.5em 1.1em;
+  border: 1px solid var(--color-accent);
+  border-radius: 3px;
+  color: var(--color-accent) !important;
+  text-decoration: none !important;
+  font-size: 0.92rem;
+}
+
+.cv-download:hover {
+  background-color: var(--color-accent);
+  color: var(--color-bg) !important;
+}
+
+table.cv-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  margin: 1em 0 1.8em 0;
+}
+
+table.cv-table th, table.cv-table td {
+  text-align: left;
+  padding: 0.5em 0.8em 0.5em 0;
+  border-bottom: 1px solid var(--color-border);
+  vertical-align: top;
+}
+
+table.cv-table th {
+  color: var(--color-text-muted);
+  font-weight: 600;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+/* ---------------------------------------------------------------------------
+   Listing page (Writing)
+   --------------------------------------------------------------------------- */
+
+.quarto-listing-category-title {
+  font-family: var(--font-serif);
+}
+
+.listing-date {
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
+/* ---------------------------------------------------------------------------
+   Responsive
+   --------------------------------------------------------------------------- */
+
+@media (max-width: 620px) {
+  .hero {
+    flex-direction: column;
+  }
+  .hero-name {
+    font-size: 1.9rem;
+  }
+  .photo-placeholder,
+  .profile-photo {
+    width: 120px;
+    height: 120px;
+  }
+}

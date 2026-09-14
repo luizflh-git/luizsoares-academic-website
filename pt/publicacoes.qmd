@@ -1,0 +1,71 @@
+---
+title: "Publicações"
+description: "Dissertação, publicações revisadas por pares, publicações institucionais, working papers e apresentações."
+lang: pt-BR
+page-layout: article
+toc: true
+toc-location: right
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/pt/publicacoes.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/publications.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/publicacoes.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/publications.html">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:locale:alternate" content="en_US">
+---
+
+## Dissertação
+
+::: {.pub-entry}
+<div class="pub-title">Projeto de Classificadores de Padrões Baseados em Protótipos Usando Evolução Diferencial</div>
+<div class="pub-meta">
+Luiz Soares de Andrade Filho · Dissertação de mestrado, 2014<br>
+Programa de Pós-Graduação em Engenharia de Teleinformática, Universidade Federal do Ceará (UFC)<br>
+Área de concentração: Sinais e Sistemas · Orientador: Prof. Dr. Guilherme de Alencar Barreto
+</div>
+<div class="pub-links">
+[PDF — Repositório Institucional da UFC](https://repositorio.ufc.br/bitstream/riufc/12478/1/2014_dis_lsandradefilho.pdf)
+</div>
+:::
+
+Esta dissertação desenvolve classificadores de padrões baseados em protótipos, cujos protótipos são otimizados por evolução diferencial, um método de otimização global baseado em populações. Este trabalho é a origem da minha formação em inteligência computacional, reconhecimento de padrões e métodos de otimização, que hoje fundamentam meu interesse em abordagens computacionais e baseadas em agentes para a economia e as políticas públicas.
+
+## Publicações Revisadas por Pares
+
+::: {.empty-section}
+Ainda não há publicações revisadas por pares. [CONTEÚDO A SER FORNECIDO]
+:::
+
+## Publicações Institucionais
+
+::: {.pub-entry}
+<div class="pub-title">Manual do Ofertante, Versão 3.0</div>
+<div class="pub-meta">
+Equipe do Software Público Brasileiro · Ministério do Planejamento · outubro de 2016
+</div>
+<div class="pub-meta">
+Papel: responsável técnico por esta atualização do manual, como integrante da equipe do Software Público Brasileiro.
+</div>
+<div class="pub-links">
+[PDF — Portal do Software Público Brasileiro](https://softwarepublico.gov.br/social/articles/0004/7028/Manual_do_Ofertante.pdf)
+</div>
+:::
+
+## Working Papers
+
+::: {.empty-section}
+Nenhum até o momento. [CONTEÚDO A SER FORNECIDO]
+:::
+
+## Relatórios de Pesquisa
+
+::: {.empty-section}
+Nenhum até o momento. [CONTEÚDO A SER FORNECIDO]
+:::
+
+## Apresentações em Conferências
+
+::: {.empty-section}
+Nenhuma até o momento. [CONTEÚDO A SER FORNECIDO]
+:::

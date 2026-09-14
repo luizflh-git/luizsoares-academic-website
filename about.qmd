@@ -1,0 +1,47 @@
+---
+title: "About"
+description: "Academic background, professional trajectory, and research transition."
+page-layout: article
+toc: true
+toc-location: right
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/about.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/about.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/sobre.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/about.html">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="pt_BR">
+---
+
+## Academic Background
+
+I hold a degree in Computer Engineering from the Universidade de Pernambuco (UPE) [TO BE VERIFIED: exact graduation year] and a Master's degree in Teleinformatics Engineering from the Universidade Federal do Ceará (UFC, 2014), in the concentration area of Signals and Systems. My master's thesis, advised by Prof. Dr. Guilherme de Alencar Barreto, developed prototype-based pattern classifiers optimized with differential evolution — an early exposure to computational intelligence, pattern recognition, and optimization that continues to inform how I approach quantitative problems. The full thesis, with a link to the UFC institutional repository, is listed on the [Publications](publications.qmd) page.
+
+## Professional Trajectory
+
+My professional path has been in information systems and data-intensive work in the Brazilian public sector, including experience with information systems development, databases, data engineering and integration (ETL), business intelligence, and workflow orchestration. I was part of the team behind the Brazilian Public Software program (Software Público Brasileiro) at the former Ministry of Planning, where I served as technical lead for an update of the program's Manual do Ofertante (Vendor's Manual) — see [Projects](projects.qmd). I currently work at the Institute for Applied Economic Research (Ipea), in the Coordenação de Sistemas de Informação (COSIS), within its data science and information technology area [TO BE VERIFIED: exact English title of my position and start date; see the [CV](cv.qmd) page].
+
+This experience is not the center of this website, but it is the foundation for the research direction described below: years spent turning institutional and public-sector problems into data and computational problems gave me both a strong computational base and direct, practical familiarity with the kind of systems and data that public-policy research draws on.
+
+## Research Transition
+
+Over the past several years, my interests have shifted from applied computational intelligence and public-sector data systems toward complex systems, network science, and agent-based modeling, with a growing focus on their application to computational economics and public policy. Concretely, this has included joining [LASPP](research.qmd#laspp), a research group at Ipea working on complex systems and their applications, and completing coursework in agent-based economic models as a special student at the University of São Paulo (USP) in 2026. More detail on this trajectory and the questions motivating it is on the [Research](research.qmd) page.
+
+## Current Interests
+
+My current interests are described in more detail on the [Research](research.qmd) page: complex systems and network science, agent-based modeling, computational economics, and computational approaches to public policy.
+
+I am not currently accepting this website as an active PhD application announcement — this line will be updated if and when that changes.
+
+## Beyond Research
+
+Outside of research, I spend time with family, enjoy sports, reading, and following developments in science more broadly, and like getting outdoors when I can.
+
+## Contact
+
+The best way to reach me is by email: [luizflh@gmail.com](mailto:luizflh@gmail.com), or via [LinkedIn](https://www.linkedin.com/in/luiz-soares-af/).
+
+::: {.editorial-note}
+Interim address, pending a permanent one once `luizsoares.org` is active.
+:::

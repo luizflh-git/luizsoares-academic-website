@@ -1,0 +1,22 @@
+---
+title: "Agent-Based Modeling and Economic Complexity"
+description: "Placeholder — a planned essay on agent-based modeling as a complement to standard economic analysis."
+date: 2026-09-13
+categories: [Agent-Based Modeling, Computational Economics, English]
+draft: false
+---
+
+::: {.editorial-note}
+Planned, not yet written — outline below, to be replaced with full content.
+:::
+
+## Intended scope
+
+This essay will introduce agent-based modeling (ABM) as a way of studying how macro-level economic patterns emerge from the interaction of heterogeneous, boundedly rational agents, and will discuss:
+
+- What ABM adds relative to representative-agent or purely econometric approaches, and where it does not substitute for them.
+- A simple, illustrative example of an agent-based model (to be developed, with code, once written).
+- Connections to complex-systems concepts such as emergence, feedback, and path dependence.
+- How this relates to coursework completed in 2026 in agent-based economic models (see the [CV](../../cv.qmd#academic-activities)).
+
+*[CONTENT TO BE PROVIDED]*

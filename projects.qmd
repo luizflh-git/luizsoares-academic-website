@@ -1,0 +1,41 @@
+---
+title: "Projects"
+description: "Research projects and selected applied projects."
+page-layout: article
+toc: true
+toc-location: right
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/projects.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/projects.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/projetos.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/projects.html">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="pt_BR">
+---
+
+## Research Projects
+
+::: {.empty-section}
+No research projects are publicly described yet. [CONTENT TO BE PROVIDED — to be added as the research agenda under [LASPP](research.qmd#laspp) and elsewhere develops.]
+:::
+
+## Selected Applied Projects
+
+::: {.project-entry}
+<div class="pub-title">Brazilian Public Software — Manual do Ofertante</div>
+
+**Problem.** Vendors and public bodies offering software through the Brazilian Public Software program (Software Público Brasileiro) needed clear, up-to-date guidance on the process and requirements for listing software on the platform.
+
+**Context.** Brazilian Ministry of Planning, Software Público Brasileiro program, 2016.
+
+**My role.** Member of the Software Público Brasileiro team; technical lead for the version 3.0 update of the Manual do Ofertante (Vendor's Manual).
+
+**Methods.** Technical writing and process documentation, in coordination with the program team.
+
+**Outputs.** [Manual do Ofertante, v3.0](https://softwarepublico.gov.br/social/articles/0004/7028/Manual_do_Ofertante.pdf) (PDF).
+:::
+
+::: {.editorial-note}
+Additional applied work at Ipea (data integration, data quality, pipeline automation) is not yet described here, pending a public, non-operational framing. [CONTENT TO BE PROVIDED]
+:::

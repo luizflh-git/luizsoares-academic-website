@@ -1,0 +1,15 @@
+# Quarto
+/.quarto/
+/_site/
+/_freeze/
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+*.swp
+
+**/*.quarto_ipynb

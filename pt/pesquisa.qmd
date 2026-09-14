@@ -1,0 +1,64 @@
+---
+title: "Pesquisa"
+description: "Interesses de pesquisa, atividades atuais e questões em aberto."
+lang: pt-BR
+page-layout: article
+toc: true
+toc-location: right
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/pt/pesquisa.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/research.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/pesquisa.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/research.html">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:locale:alternate" content="en_US">
+---
+
+## Visão Geral
+
+Meus interesses de pesquisa estão na interseção entre sistemas complexos, ciência de redes, modelagem baseada em agentes, economia computacional e políticas públicas. Essa agenda nasceu de uma trajetória acadêmica e profissional anterior:
+
+> Engenharia da Computação → Reconhecimento de Padrões / Inteligência Computacional → Sistemas de Dados e Computacionais → Problemas Aplicados ao Setor Público → Sistemas Complexos / Ciência de Redes / Modelagem Baseada em Agentes → Economia Computacional e Políticas Públicas
+
+Formei-me em engenharia da computação e conclui um mestrado aplicando métodos de inteligência computacional (classificadores de padrões baseados em protótipos, otimizados por evolução diferencial) a problemas de classificação. Em seguida, passei vários anos trabalhando com sistemas de informação, engenharia de dados e análise de dados em instituições públicas brasileiras — experiência que me deu contato direto com o funcionamento real de dados, instituições e processos governamentais, e com o tipo de problema que métodos quantitativos e computacionais podem ajudar a enfrentar.
+
+Atualmente, estou construindo sobre essa base para avançar em uma agenda de pesquisa em sistemas complexos e ciência de redes, com interesse particular em modelagem baseada em agentes e em abordagens computacionais para a economia e as políticas públicas. Apresento isso como uma trajetória em construção, não como uma especialização já consolidada: sou um pesquisador e profissional com formação quantitativa montando uma agenda interdisciplinar coerente, não alguém que reivindica experiência já estabelecida em todas essas áreas simultaneamente.
+
+## Sistemas Complexos e Ciência de Redes
+
+Interesso-me por como a estrutura e a interação — e não apenas médias agregadas — moldam o comportamento de sistemas sociais, econômicos e institucionais. Isso inclui questões sobre estrutura, conectividade e dinâmica de redes, e sobre como essas propriedades se relacionam à resiliência, eficiência ou fragilidade dos sistemas construídos sobre elas (mercados, programas públicos, redes administrativas, organizações).
+
+## Modelagem Baseada em Agentes
+
+Interesso-me pela modelagem baseada em agentes (agent-based modeling, ABM) como forma de estudar como padrões macroeconômicos e sociais emergem da interação de agentes heterogêneos e com racionalidade limitada — como complemento, e não substituto, às abordagens analíticas e econométricas tradicionais. Em 2026, concluí uma disciplina sobre modelos econômicos baseados em agentes como aluno especial na Universidade de São Paulo (USP); ver [Atividades Acadêmicas](cv.qmd#atividades-academicas) na página do CV.
+
+## Economia Computacional
+
+Interesso-me, de forma mais ampla, por abordagens computacionais e quantitativas a questões econômicas — incluindo simulação, otimização e métodos intensivos em dados — particularmente onde essas abordagens se cruzam com estrutura de redes e heterogeneidade de agentes.
+
+## Abordagens Computacionais para Políticas Públicas
+
+Tendo trabalhado diretamente com sistemas de informação e dados do setor público, interesso-me por como ferramentas de sistemas complexos e de análise de redes podem informar o desenho, a implementação e a avaliação de políticas públicas — por exemplo, para entender como redes institucionais e administrativas afetam a entrega de programas e serviços públicos.
+
+## LASPP — Pesquisa Colaborativa no Ipea {#laspp}
+
+Desde o final de 2025, participo do LASPP, um grupo de pesquisa interdisciplinar do Ipea que reúne pesquisadores interessados em sistemas complexos e em suas aplicações à economia e a políticas públicas. O grupo oferece um ambiente colaborativo para discutir questões de pesquisa, desenvolver estudos e trabalhar rumo a publicações conjuntas.
+
+::: {.editorial-note}
+Descrição provisória, à espera de uma versão oficial; a expansão da sigla é omitida por não haver, até o momento, uma expansão pública confirmada.
+:::
+
+## Questões de Pesquisa Atuais
+
+Estas são questões em aberto que atualmente motivam minhas leituras e meu trabalho — não achados ou resultados.
+
+1. Como medidas de análise de redes aplicadas à estrutura institucional ou administrativa podem ajudar a explicar a variação na efetividade de programas públicos?
+2. Sob quais condições modelos baseados em agentes do comportamento econômico geram percepções que complementam as abordagens econométricas padrão, em vez de apenas reproduzi-las?
+3. Como a estrutura de redes interorganizacionais ou interinstitucionais no governo molda a difusão de informação, recursos ou a adoção de políticas?
+4. Quais métodos computacionais são mais adequados para caracterizar complexidade (por exemplo, emergência, não linearidade, dependência de trajetória) em sistemas econômicos e sociais, usando o tipo de dado administrativo disponível no setor público brasileiro?
+5. *[CONTEÚDO A SER FORNECIDO — questão(ões) adicional(is) a ser(em) incluída(s) conforme a agenda de pesquisa se desenvolve.]*
+
+---
+
+*[A VERIFICAR: esta página será atualizada conforme a agenda de pesquisa, a descrição oficial do LASPP e eventuais produtos resultantes forem confirmados.]*

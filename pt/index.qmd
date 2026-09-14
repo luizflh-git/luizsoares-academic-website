@@ -1,0 +1,61 @@
+---
+title: "Luiz Soares"
+description: "Site acadêmico pessoal de Luiz Soares, pesquisador no Ipea que trabalha com sistemas complexos, ciência de redes, modelagem baseada em agentes, economia computacional e políticas públicas."
+lang: pt-BR
+page-layout: full
+title-block-banner: false
+toc: false
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/pt/">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:locale:alternate" content="en_US">
+---
+
+::: {.hero}
+
+::: {.profile-photo}
+<img src="../assets/images/imagem_foto_luiz_soares.png" alt="Luiz Soares">
+:::
+
+::: {.hero-text}
+<div class="hero-name">Luiz Soares</div>
+<div class="hero-affiliation">Instituto de Pesquisa Econômica Aplicada (Ipea), Brasil</div>
+<div class="hero-tagline">Sistemas Complexos · Ciência de Redes · Modelagem Baseada em Agentes · Economia Computacional · Políticas Públicas</div>
+
+Sou pesquisador com formação que combina engenharia da computação e vários anos de atuação aplicada, com uso intensivo de dados, no setor público brasileiro. Minha base acadêmica está em inteligência computacional e reconhecimento de padrões, e minha experiência profissional abrange sistemas de informação, engenharia de dados e análise de dados para instituições públicas. No Instituto de Pesquisa Econômica Aplicada (Ipea), meu trabalho atual vem se aproximando de sistemas complexos, ciência de redes e modelagem baseada em agentes, com interesse crescente em aplicar essas ferramentas à economia computacional e a políticas públicas. Venho construindo essa agenda de pesquisa com vistas a um doutorado na área.
+
+::: {.quick-links}
+[Pesquisa](pesquisa.qmd) [Publicações](publicacoes.qmd) [Textos](textos.qmd) [Currículo](cv.qmd)
+:::
+
+::: {.profile-links}
+**Perfis:** ORCID *(em breve)* [·]{.sep} Google Scholar *(em breve)* [·]{.sep} GitHub *(em breve)* [·]{.sep} [LinkedIn](https://www.linkedin.com/in/luiz-soares-af/) [·]{.sep} [luizflh@gmail.com](mailto:luizflh@gmail.com)
+:::
+:::
+
+:::
+
+## Interesses de Pesquisa
+
+- **Sistemas complexos e ciência de redes** — estrutura, dinâmica e comportamento emergente em sistemas sociais, econômicos e institucionais.
+- **Modelagem baseada em agentes** — representações computacionais de agentes heterogêneos para o estudo de fenômenos econômicos e sociais.
+- **Economia computacional** — abordagens quantitativas e baseadas em simulação para questões econômicas.
+- **Políticas públicas** — aplicação de métodos informados por complexidade e por redes a problemas de governo e administração pública.
+
+Uma descrição mais completa desses interesses, e das questões que atualmente os motivam, está na página [Pesquisa](pesquisa.qmd).
+
+## Pesquisa Atual
+
+Desde o final de 2025, participo do **LASPP**, um grupo de pesquisa do Ipea sobre sistemas complexos — ver a página de [Pesquisa](pesquisa.qmd#laspp) para uma descrição completa.
+
+## Publicações e Trabalhos em Andamento
+
+Ainda não tenho publicações revisadas por pares para listar. Minha dissertação de mestrado e outros produtos institucionais estão listados na página [Publicações](publicacoes.qmd).
+
+## Textos Recentes
+
+Ensaios e notas técnicas sobre sistemas complexos, ciência de redes, modelagem baseada em agentes e políticas públicas estão em preparação. Os temas planejados estão listados na página [Textos](textos.qmd).

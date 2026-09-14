@@ -1,0 +1,132 @@
+---
+title: "Curriculum Vitae"
+description: "Research interests, education, experience, publications, and activities."
+page-layout: article
+toc: true
+toc-location: right
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/cv.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/cv.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/cv.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/cv.html">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="pt_BR">
+---
+
+[Download Full CV (PDF)](files/cv-luiz-soares-en.pdf){.cv-download}
+
+::: {.editorial-note}
+PDF pending; items not yet confirmed are marked **[TO BE VERIFIED]**.
+:::
+
+## Research Interests
+
+Complex systems, network science, agent-based modeling, computational economics, and computational approaches to public policy. See the [Research](research.qmd) page for a full description.
+
+## Education
+
+::: {.cv-entry}
+**M.Sc. in Teleinformatics Engineering** — Universidade Federal do Ceará (UFC), 2014\
+Concentration area: Signals and Systems · Advisor: Prof. Dr. Guilherme de Alencar Barreto\
+Thesis title, abstract, and link on the [Publications](publications.qmd) page.
+:::
+
+::: {.cv-entry}
+**B.Sc. in Computer Engineering** — Universidade de Pernambuco (UPE)\
+[TO BE VERIFIED: graduation year]
+:::
+
+## Research Experience
+
+::: {.cv-entry}
+**LASPP research group** — Institute for Applied Economic Research (Ipea), since late 2025\
+See [Research](research.qmd#laspp) for a description.
+:::
+
+## Professional Experience
+
+::: {.cv-entry}
+**Institute for Applied Economic Research (Ipea)** — Coordenação de Sistemas de Informação (COSIS), Data Science and Information Technology area\
+Position: Técnico de Planejamento e Pesquisa (TP) — **[TO BE VERIFIED: official English translation of position title]**\
+[TO BE VERIFIED: start date] – present\
+*Source: Ipea, [Relação de Servidores, June 2025](https://www.ipea.gov.br/portal/images/acesso-a-informacao/servidores/250711_relacao_servidores_junho_2025.pdf); Ipea, [Plano de Trabalho 2026](https://www.ipea.gov.br/portal/images/institucional/plano_de_trabalho/251230_plano_de_trabalho_2026.pdf).*
+:::
+
+::: {.cv-entry}
+**Brazilian Ministry of Planning** — Software Público Brasileiro (Brazilian Public Software) team\
+[TO BE VERIFIED: exact position title and dates]\
+Technical lead for the version 3.0 update (October 2016) of the program's Manual do Ofertante (Vendor's Manual).\
+*Source: [Manual do Ofertante, v3.0](https://softwarepublico.gov.br/social/articles/0004/7028/Manual_do_Ofertante.pdf); noted as prior experience at the Ministry of Planning in UFC PPGETI's [egressos de destaque](https://ppgeti.ufc.br/pt/egressos-de-destaque/) page.*
+:::
+
+## Publications
+
+See the full [Publications](publications.qmd) page (thesis, institutional publications; no peer-reviewed publications yet).
+
+## Working Papers
+
+::: {.empty-section}
+None yet. [CONTENT TO BE PROVIDED]
+:::
+
+## Academic Activities {#academic-activities}
+
+::: {.cv-entry}
+**Special student, SCX5015 — Modelos Econômicos Baseados em Agentes (Agent-Based Economic Models)**\
+Escola de Artes, Ciências e Humanidades (EACH), Universidade de São Paulo (USP) · 2026\
+*Source: EACH-USP, [special-student approval listing](https://each.usp.br/pos/AlunoEspecial/secretaria/listar-aprovados.php).*
+:::
+
+::: {.cv-entry}
+Additional coursework in complex systems, University of São Paulo (USP) — **[TO BE VERIFIED: exact course title, code, and term]**.
+:::
+
+::: {.cv-entry}
+Listed among Ipea staff in the selection process for the 8th class of Ipea's Professional Master's Program (2025).\
+**[TO BE VERIFIED: final admission/enrollment outcome]**\
+*Source: Ipea, [Edital 2, 8ª turma](https://www.ipea.gov.br/portal/images/mestrado_profissional/arquivos/250702_edital_2_8_turma.pdf); Ipea, [Edital 3, 8ª turma](https://www.ipea.gov.br/portal/images/mestrado_profissional/arquivos/250711_edital_3_8_turma.pdf).*
+:::
+
+## Selected Projects
+
+See the [Projects](projects.qmd) page for research and selected applied projects, presented with problem, context, role, methods, and outputs.
+
+## Quantitative / Computational Methods
+
+Pattern recognition and computational intelligence (prototype-based classifiers, differential evolution and other optimization methods); data engineering and ETL; Python; workflow orchestration (Airflow); containerized deployment (Kubernetes); business intelligence and data visualization (Power BI); relational databases and data architecture/quality; and, as part of my current research transition, agent-based modeling and introductory network analysis.
+
+## Languages
+
+::: {.cv-entry}
+Portuguese — native\
+English — used for academic reading and writing **[TO BE VERIFIED: proficiency level / certification, if any]**
+:::
+
+## Selected Achievements {#selected-achievements}
+
+::: {.editorial-note}
+Neutral factual entries with official sources; outcomes not stated in the source documents are marked [TO BE VERIFIED].
+:::
+
+<table class="cv-table">
+<thead>
+<tr><th>Institution</th><th>Process</th><th>Year</th><th>Outcome / Ranking</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Tribunal de Contas do Distrito Federal (TCDF)</td>
+<td>Public competitive examination (Cebraspe, Edital 8/2023) — reached final stage (objective and essay exams)</td>
+<td>2023</td>
+<td>[TO BE VERIFIED]</td>
+<td><a href="https://cdn.cebraspe.org.br/concursos/TC_DF_23/arquivos/ED_8_2023_TCDF_RES_FINAL_OBJ_E_PROV_DISC.PDF">Cebraspe (PDF)</a></td>
+</tr>
+<tr>
+<td>Brazilian Ministry of Planning</td>
+<td>Public competitive examination (Edital SETEC/SOF-MPO 8/2024) — reached final stages, including essay exams, biopsychosocial evaluation, hetero-identification, and titles assessment</td>
+<td>2024</td>
+<td>[TO BE VERIFIED]</td>
+<td><a href="https://www.gov.br/planejamento/pt-br/assuntos/noticias/concurso/edital-no-8-setec-sof-mpo-de-20-08-2024-resultado-final-provas-discursivas-convocacao-avaliacao-biopsicossocial-heteroidentificacao-e-titulos.pdf">gov.br (PDF)</a></td>
+</tr>
+</tbody>
+</table>

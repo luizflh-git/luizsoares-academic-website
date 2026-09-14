@@ -1,0 +1,27 @@
+---
+title: "Textos"
+description: "Ensaios e notas técnicas sobre sistemas complexos, ciência de redes, modelagem baseada em agentes, economia computacional e políticas públicas."
+lang: pt-BR
+page-layout: full
+toc: false
+listing:
+  contents: "../posts/**/*.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [title, date, description, categories, reading-time]
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/pt/textos.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/writing.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/textos.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/writing.html">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:locale:alternate" content="en_US">
+---
+
+Esta seção reúne ensaios e notas técnicas de maior fôlego — não um blog pessoal ou de notícias — sobre sistemas complexos, ciência de redes, modelagem baseada em agentes, economia computacional e políticas públicas. Os textos podem incluir equações, código, visualizações de dados e referências.
+
+Os textos aparecem no idioma em que foram originalmente escritos (inglês ou português), indicado por uma das categorias abaixo; não há tradução automática do conteúdo. Os itens listados a seguir são, no momento, **placeholders planejados**, sinalizados como tal, e não ensaios já publicados.

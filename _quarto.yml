@@ -1,0 +1,107 @@
+# _quarto.yml
+# -----------------------------------------------------------------------------
+# NOTE ON PLACEHOLDER VALUES
+# The domain (luizsoares.org) is the intended value but is not active yet
+# (see README.md). The email currently used site-wide (luizflh@gmail.com) is
+# an interim address; luiz@luizsoares.org is the intended long-term academic
+# address once the domain is live. Update both here and in the pages that
+# reference them (index.qmd, about.qmd, cv.qmd) with a simple find-and-replace
+# once confirmed.
+# -----------------------------------------------------------------------------
+# BILINGUAL SITE (EN default, PT under /pt/)
+# The navbar/footer below are defined once, in English — they are the single
+# source of truth. Pages under pt/ are rendered with their own `lang: pt-BR`
+# and a per-page canonical/hreflang block (see any pt/*.qmd for the pattern).
+# assets/js/lang-switch.js relabels the navbar/footer into Portuguese, and
+# resolves the "EN | PT" switcher, only on pages served from /pt/. See
+# README.md, section "Bilingual (EN/PT) site", before adding new pages.
+# -----------------------------------------------------------------------------
+
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "posts/**/*.qmd"
+    - "pt/**/*.qmd"
+    - "!SOURCES.md"
+
+website:
+  title: "Luiz Soares"
+  site-url: "https://luizsoares.org"
+  description: >-
+    Personal academic website of Luiz Soares — researcher working on complex
+    systems, network science, agent-based modeling, computational economics,
+    and public policy.
+  favicon: assets/images/favicon.svg
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: writing.qmd
+        text: Writing
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:luizflh@gmail.com"
+        aria-label: Email
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/luiz-soares-af/"
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Luiz Soares de Andrade Filho"
+    center: "Views expressed here are my own and do not necessarily represent those of Ipea."
+    right:
+      - href: about.qmd
+        text: Contact
+  page-navigation: false
+  back-to-top-navigation: true
+  reader-mode: false
+  open-graph: true
+  twitter-card: true
+  # repo-url: https://github.com/<username>/website_luiz_soares  # TODO: uncomment once public
+  # google-analytics: "G-XXXXXXX"                                 # TODO: add if/when desired
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    number-sections: false
+    link-external-icon: false
+    link-external-newwindow: true
+    smooth-scroll: true
+    code-copy: true
+    code-link: true
+    anchor-sections: true
+    fig-responsive: true
+    grid:
+      body-width: 800px
+      sidebar-width: 250px
+      margin-width: 250px
+    include-after-body:
+      text: |
+        <script src="/assets/js/lang-switch.js"></script>
+
+execute:
+  freeze: auto
+  echo: true
+  warning: false
+
+bibliography: references/references.bib
+# csl: references/apa.csl  # TODO: add a local CSL file here to customize citation style;
+                            # without it, Pandoc's default (Chicago author-date) is used.
+link-citations: true
+
+lang: en
+
+author: "Luiz Soares"

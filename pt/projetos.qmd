@@ -1,0 +1,42 @@
+---
+title: "Projetos"
+description: "Projetos de pesquisa e projetos aplicados selecionados."
+lang: pt-BR
+page-layout: article
+toc: true
+toc-location: right
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/pt/projetos.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/projects.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/projetos.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/projects.html">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:locale:alternate" content="en_US">
+---
+
+## Projetos de Pesquisa
+
+::: {.empty-section}
+Ainda não há projetos de pesquisa descritos publicamente. [CONTEÚDO A SER FORNECIDO — a ser incluído conforme a agenda de pesquisa em torno do [LASPP](pesquisa.qmd#laspp) e outras frentes se desenvolver.]
+:::
+
+## Projetos Aplicados Selecionados
+
+::: {.project-entry}
+<div class="pub-title">Software Público Brasileiro — Manual do Ofertante</div>
+
+**Problema.** Fornecedores e órgãos públicos que ofertavam software por meio do programa Software Público Brasileiro precisavam de orientação clara e atualizada sobre o processo e os requisitos para listar software na plataforma.
+
+**Contexto.** Ministério do Planejamento, programa Software Público Brasileiro, 2016.
+
+**Meu papel.** Integrante da equipe do Software Público Brasileiro; responsável técnico pela atualização da versão 3.0 do Manual do Ofertante.
+
+**Métodos.** Redação técnica e documentação de processos, em coordenação com a equipe do programa.
+
+**Produtos.** [Manual do Ofertante, v3.0](https://softwarepublico.gov.br/social/articles/0004/7028/Manual_do_Ofertante.pdf) (PDF).
+:::
+
+::: {.editorial-note}
+Outros trabalhos aplicados no Ipea (integração de dados, qualidade de dados, automação de pipelines) ainda não estão descritos aqui, à espera de um enquadramento público e não operacional. [CONTEÚDO A SER FORNECIDO]
+:::

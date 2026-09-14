@@ -1,0 +1,60 @@
+---
+title: "Luiz Soares"
+description: "Personal academic website of Luiz Soares, researcher at Ipea working on complex systems, network science, agent-based modeling, computational economics, and public policy."
+page-layout: full
+title-block-banner: false
+toc: false
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="pt_BR">
+---
+
+::: {.hero}
+
+::: {.profile-photo}
+<img src="assets/images/imagem_foto_luiz_soares.png" alt="Luiz Soares">
+:::
+
+::: {.hero-text}
+<div class="hero-name">Luiz Soares</div>
+<div class="hero-affiliation">Institute for Applied Economic Research (Ipea), Brazil</div>
+<div class="hero-tagline">Complex Systems · Network Science · Agent-Based Modeling · Computational Economics · Public Policy</div>
+
+I am a researcher whose training combines computer engineering with several years of applied, data-intensive work in the Brazilian public sector. My academic background is in computational intelligence and pattern recognition, and my professional experience spans information systems, data engineering, and analytics for public institutions. At the Institute for Applied Economic Research (Ipea), my current work is moving toward complex systems, network science, and agent-based modeling, with a growing interest in how these tools can be applied to computational economics and public policy. I am building this research agenda with an eye toward doctoral study in a related field.
+
+::: {.quick-links}
+[Research](research.qmd) [Publications](publications.qmd) [Writing](writing.qmd) [Curriculum Vitae](cv.qmd)
+:::
+
+::: {.profile-links}
+**Profiles:** ORCID *(to be added)* [·]{.sep} Google Scholar *(to be added)* [·]{.sep} GitHub *(to be added)* [·]{.sep} [LinkedIn](https://www.linkedin.com/in/luiz-soares-af/) [·]{.sep} [luizflh@gmail.com](mailto:luizflh@gmail.com)
+:::
+:::
+
+:::
+
+## Selected Research Interests
+
+- **Complex systems and network science** — structure, dynamics, and emergent behavior in social, economic, and institutional systems.
+- **Agent-based modeling** — computational representations of heterogeneous agents to study economic and social phenomena.
+- **Computational economics** — quantitative and simulation-based approaches to economic questions.
+- **Public policy** — applying complexity- and network-informed methods to problems in government and public administration.
+
+A fuller description of these interests, and of the questions currently motivating them, is on the [Research](research.qmd) page.
+
+## Current Research
+
+Since late 2025, I have participated in **LASPP**, an Ipea research group on complex systems — see the [Research](research.qmd#laspp) page for a fuller description.
+
+## Selected Publications & Working Papers
+
+I do not yet have peer-reviewed publications to list. My master's thesis and other institutional outputs are listed on the [Publications](publications.qmd) page.
+
+## Recent Writing
+
+Essays and technical notes on complex systems, network science, agent-based modeling, and public policy are in progress. Planned topics are listed on the [Writing](writing.qmd) page.

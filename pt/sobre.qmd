@@ -1,0 +1,48 @@
+---
+title: "Sobre"
+description: "Formação acadêmica, trajetória profissional e transição de pesquisa."
+lang: pt-BR
+page-layout: article
+toc: true
+toc-location: right
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/pt/sobre.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/about.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/sobre.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/about.html">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:locale:alternate" content="en_US">
+---
+
+## Formação Acadêmica
+
+Sou graduado em Engenharia da Computação pela Universidade de Pernambuco (UPE) [A VERIFICAR: ano exato de conclusão] e mestre em Engenharia de Teleinformática pela Universidade Federal do Ceará (UFC, 2014), na área de concentração de Sinais e Sistemas. Minha dissertação de mestrado, orientada pelo Prof. Dr. Guilherme de Alencar Barreto, desenvolveu classificadores de padrões baseados em protótipos otimizados por evolução diferencial — um primeiro contato com inteligência computacional, reconhecimento de padrões e otimização que segue orientando minha forma de abordar problemas quantitativos. A dissertação completa, com link para o repositório institucional da UFC, está listada na página [Publicações](publicacoes.qmd).
+
+## Trajetória Profissional
+
+Minha trajetória profissional tem sido em sistemas de informação e em trabalho intensivo em dados no setor público brasileiro, incluindo experiência com desenvolvimento de sistemas de informação, bancos de dados, engenharia e integração de dados (ETL), business intelligence e orquestração de fluxos de trabalho. Fiz parte da equipe por trás do programa Software Público Brasileiro, no então Ministério do Planejamento, onde atuei como responsável técnico por uma atualização do Manual do Ofertante do programa — ver [Projetos](projetos.qmd). Atualmente trabalho no Instituto de Pesquisa Econômica Aplicada (Ipea), na Coordenação de Sistemas de Informação (COSIS), na área de ciência de dados e tecnologia da informação [A VERIFICAR: título exato do cargo e data de início; ver a página do [CV](cv.qmd)].
+
+Essa experiência não é o centro deste site, mas é a base da direção de pesquisa descrita a seguir: anos transformando problemas institucionais e do setor público em problemas de dados e computacionais me deram tanto uma base computacional sólida quanto familiaridade prática direta com o tipo de sistema e de dado com que a pesquisa em políticas públicas trabalha.
+
+## Transição de Pesquisa
+
+Nos últimos anos, meus interesses migraram da inteligência computacional aplicada e dos sistemas de dados do setor público em direção a sistemas complexos, ciência de redes e modelagem baseada em agentes, com foco crescente em sua aplicação à economia computacional e a políticas públicas. Concretamente, isso incluiu ingressar no [LASPP](pesquisa.qmd#laspp), um grupo de pesquisa do Ipea dedicado a sistemas complexos e suas aplicações, e concluir, em 2026, uma disciplina sobre modelos econômicos baseados em agentes como aluno especial na Universidade de São Paulo (USP). Mais detalhes sobre essa trajetória e sobre as questões que a motivam estão na página [Pesquisa](pesquisa.qmd).
+
+## Interesses Atuais
+
+Meus interesses atuais estão descritos com mais detalhe na página [Pesquisa](pesquisa.qmd): sistemas complexos e ciência de redes, modelagem baseada em agentes, economia computacional e abordagens computacionais para políticas públicas.
+
+Este site não representa, no momento, um anúncio de candidatura ativa a doutorado — esta observação será atualizada se e quando isso mudar.
+
+## Além da Pesquisa
+
+Fora da pesquisa, dedico tempo à família, gosto de esportes, leitura e de acompanhar o desenvolvimento da ciência de forma mais ampla, além de aproveitar para sair ao ar livre quando possível.
+
+## Contato
+
+A melhor forma de falar comigo é por e-mail: [luizflh@gmail.com](mailto:luizflh@gmail.com), ou pelo [LinkedIn](https://www.linkedin.com/in/luiz-soares-af/).
+
+::: {.editorial-note}
+Endereço provisório, até que um permanente esteja disponível quando `luizsoares.org` entrar no ar.
+:::

@@ -1,0 +1,63 @@
+---
+title: "Research"
+description: "Research interests, current activities, and open questions."
+page-layout: article
+toc: true
+toc-location: right
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/research.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/research.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/pesquisa.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/research.html">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="pt_BR">
+---
+
+## Overview
+
+My research interests sit at the intersection of complex systems, network science, agent-based modeling, computational economics, and public policy. This agenda grew out of an earlier academic and professional trajectory:
+
+> Computer Engineering → Pattern Recognition / Computational Intelligence → Data and Computational Systems → Applied Public-Sector Problems → Complex Systems / Network Science / Agent-Based Modeling → Computational Economics and Public Policy
+
+I trained in computer engineering and completed a master's degree applying computational intelligence methods (prototype-based pattern classifiers optimized with differential evolution) to classification problems. I then spent several years working with information systems, data engineering, and analytics in Brazilian public institutions — experience that gave me direct exposure to how government data, institutions, and processes actually work, and to the kinds of problems that quantitative and computational methods can help address.
+
+I am currently building on that foundation to work toward a research agenda in complex systems and network science, with particular interest in agent-based modeling and computational approaches to economics and public policy. I present this as a trajectory in progress rather than as a finished specialization: I am a quantitatively trained researcher and practitioner assembling a coherent, interdisciplinary agenda, not someone claiming existing expertise across all of these fields at once.
+
+## Complex Systems & Network Science
+
+I am interested in how structure and interaction — rather than aggregate averages — shape the behavior of social, economic, and institutional systems. This includes questions about network structure, connectivity, and dynamics, and about how these properties relate to the resilience, efficiency, or fragility of the systems built on top of them (markets, public programs, administrative networks, organizations).
+
+## Agent-Based Modeling
+
+I am interested in agent-based modeling (ABM) as a way to study how macro-level economic and social patterns emerge from the interaction of heterogeneous, boundedly rational agents — as a complement to, not a replacement for, analytical and econometric approaches. In 2026, I completed coursework in agent-based economic models as a special student at the University of São Paulo (USP); see [Academic Activities](cv.qmd#academic-activities) on the CV page.
+
+## Computational Economics
+
+I am interested in computational and quantitative approaches to economic questions more broadly — including simulation, optimization, and data-intensive methods — particularly where they intersect with network structure and agent heterogeneity.
+
+## Computational Approaches to Public Policy
+
+Having worked directly with public-sector information systems and data, I am interested in how complex-systems and network-analytic tools can inform the design, implementation, and evaluation of public policy — for example, in understanding how institutional and administrative networks affect the delivery of public programs and services.
+
+## LASPP — Collaborative Research at Ipea {#laspp}
+
+Since late 2025, I have participated in LASPP, an interdisciplinary research group at Ipea bringing together researchers interested in complex systems and their applications to economics and public policy. The group provides a collaborative environment for discussing research questions, developing studies, and working toward joint publications.
+
+::: {.editorial-note}
+Draft description, pending an official one; the acronym's expansion is omitted as no confirmed public expansion currently exists.
+:::
+
+## Current Research Questions
+
+These are open questions currently motivating my reading and work, not findings or results.
+
+1. How can network-analytic measures of institutional or administrative structure help explain variation in the effectiveness of public programs?
+2. Under what conditions do agent-based models of economic behavior yield insights that complement standard econometric approaches, rather than merely reproducing them?
+3. How does the structure of inter-organizational or inter-agency networks in government shape the diffusion of information, resources, or policy adoption?
+4. What computational methods are best suited to characterizing complexity (e.g., emergence, non-linearity, path dependence) in economic and social systems using the kind of administrative data available in the Brazilian public sector?
+5. *[CONTENT TO BE PROVIDED — additional question(s) to be added as the research agenda develops.]*
+
+---
+
+*[TO BE VERIFIED: this page will be updated as the research agenda, LASPP's official description, and any resulting outputs are confirmed.]*

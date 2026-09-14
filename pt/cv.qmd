@@ -1,0 +1,133 @@
+---
+title: "Currículo"
+description: "Interesses de pesquisa, formação, experiência, publicações e atividades."
+lang: pt-BR
+page-layout: article
+toc: true
+toc-location: right
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://luizsoares.org/pt/cv.html">
+    <link rel="alternate" hreflang="en" href="https://luizsoares.org/cv.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://luizsoares.org/pt/cv.html">
+    <link rel="alternate" hreflang="x-default" href="https://luizsoares.org/cv.html">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:locale:alternate" content="en_US">
+---
+
+[Baixar Currículo Completo (PDF)](../files/cv-luiz-soares-pt.pdf){.cv-download}
+
+::: {.editorial-note}
+PDF pendente; itens ainda não confirmados estão marcados como **[A VERIFICAR]**.
+:::
+
+## Interesses de Pesquisa
+
+Sistemas complexos, ciência de redes, modelagem baseada em agentes, economia computacional e abordagens computacionais para políticas públicas. Ver a página de [Pesquisa](pesquisa.qmd) para uma descrição completa.
+
+## Formação Acadêmica
+
+::: {.cv-entry}
+**Mestrado em Engenharia de Teleinformática** — Universidade Federal do Ceará (UFC), 2014\
+Área de concentração: Sinais e Sistemas · Orientador: Prof. Dr. Guilherme de Alencar Barreto\
+Título, resumo e link da dissertação na página de [Publicações](publicacoes.qmd).
+:::
+
+::: {.cv-entry}
+**Graduação em Engenharia da Computação** — Universidade de Pernambuco (UPE)\
+[A VERIFICAR: ano de conclusão]
+:::
+
+## Experiência em Pesquisa
+
+::: {.cv-entry}
+**Grupo de pesquisa LASPP** — Instituto de Pesquisa Econômica Aplicada (Ipea), desde o final de 2025\
+Ver [Pesquisa](pesquisa.qmd#laspp) para uma descrição.
+:::
+
+## Experiência Profissional
+
+::: {.cv-entry}
+**Instituto de Pesquisa Econômica Aplicada (Ipea)** — Coordenação de Sistemas de Informação (COSIS), área de Ciência de Dados e Tecnologia da Informação\
+Cargo: Técnico de Planejamento e Pesquisa (TP)\
+[A VERIFICAR: data de início] – atual\
+*Fonte: Ipea, [Relação de Servidores, junho de 2025](https://www.ipea.gov.br/portal/images/acesso-a-informacao/servidores/250711_relacao_servidores_junho_2025.pdf); Ipea, [Plano de Trabalho 2026](https://www.ipea.gov.br/portal/images/institucional/plano_de_trabalho/251230_plano_de_trabalho_2026.pdf).*
+:::
+
+::: {.cv-entry}
+**Ministério do Planejamento** — equipe do Software Público Brasileiro\
+[A VERIFICAR: cargo exato e datas]\
+Responsável técnico pela atualização da versão 3.0 (outubro de 2016) do Manual do Ofertante do programa.\
+*Fonte: [Manual do Ofertante, v3.0](https://softwarepublico.gov.br/social/articles/0004/7028/Manual_do_Ofertante.pdf); mencionado como experiência anterior no Ministério do Planejamento na página de [egressos de destaque](https://ppgeti.ufc.br/pt/egressos-de-destaque/) do PPGETI/UFC.*
+:::
+
+## Publicações
+
+Ver a página completa de [Publicações](publicacoes.qmd) (dissertação, publicações institucionais; ainda sem publicações revisadas por pares).
+
+## Working Papers
+
+::: {.empty-section}
+Nenhum até o momento. [CONTEÚDO A SER FORNECIDO]
+:::
+
+## Atividades Acadêmicas {#atividades-academicas}
+
+::: {.cv-entry}
+**Aluno especial, SCX5015 — Modelos Econômicos Baseados em Agentes**\
+Escola de Artes, Ciências e Humanidades (EACH), Universidade de São Paulo (USP) · 2026\
+*Fonte: EACH-USP, [lista de aprovados como aluno especial](https://each.usp.br/pos/AlunoEspecial/secretaria/listar-aprovados.php).*
+:::
+
+::: {.cv-entry}
+Disciplina adicional em sistemas complexos, Universidade de São Paulo (USP) — **[A VERIFICAR: título exato da disciplina, código e período]**.
+:::
+
+::: {.cv-entry}
+Listado entre os servidores do Ipea no processo seletivo da 8ª turma do Mestrado Profissional do Ipea (2025).\
+**[A VERIFICAR: resultado final de admissão/matrícula]**\
+*Fonte: Ipea, [Edital 2, 8ª turma](https://www.ipea.gov.br/portal/images/mestrado_profissional/arquivos/250702_edital_2_8_turma.pdf); Ipea, [Edital 3, 8ª turma](https://www.ipea.gov.br/portal/images/mestrado_profissional/arquivos/250711_edital_3_8_turma.pdf).*
+:::
+
+## Projetos Selecionados
+
+Ver a página de [Projetos](projetos.qmd) para projetos de pesquisa e projetos aplicados selecionados, apresentados com problema, contexto, papel, métodos e produtos.
+
+## Métodos Quantitativos / Computacionais
+
+Reconhecimento de padrões e inteligência computacional (classificadores baseados em protótipos, evolução diferencial e outros métodos de otimização); engenharia de dados e ETL; Python; orquestração de fluxos de trabalho (Airflow); implantação em contêineres (Kubernetes); business intelligence e visualização de dados (Power BI); bancos de dados relacionais e arquitetura/qualidade de dados; e, como parte da minha transição de pesquisa atual, modelagem baseada em agentes e análise introdutória de redes.
+
+## Idiomas
+
+::: {.cv-entry}
+Português — língua nativa\
+Inglês — utilizado para leitura e produção acadêmica **[A VERIFICAR: nível de proficiência / certificação, se houver]**
+:::
+
+## Realizações Selecionadas {#realizacoes-selecionadas}
+
+::: {.editorial-note}
+Registros factuais neutros, com fontes oficiais; resultados não informados nos documentos-fonte estão marcados como [A VERIFICAR].
+:::
+
+<table class="cv-table">
+<thead>
+<tr><th>Instituição</th><th>Processo</th><th>Ano</th><th>Resultado / Classificação</th><th>Fonte</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Tribunal de Contas do Distrito Federal (TCDF)</td>
+<td>Concurso público (Cebraspe, Edital 8/2023) — alcançou a fase final (provas objetiva e discursiva)</td>
+<td>2023</td>
+<td>[A VERIFICAR]</td>
+<td><a href="https://cdn.cebraspe.org.br/concursos/TC_DF_23/arquivos/ED_8_2023_TCDF_RES_FINAL_OBJ_E_PROV_DISC.PDF">Cebraspe (PDF)</a></td>
+</tr>
+<tr>
+<td>Ministério do Planejamento</td>
+<td>Concurso público (Edital SETEC/SOF-MPO 8/2024) — alcançou as fases finais, incluindo provas discursivas, avaliação biopsicossocial, heteroidentificação e avaliação de títulos</td>
+<td>2024</td>
+<td>[A VERIFICAR]</td>
+<td><a href="https://www.gov.br/planejamento/pt-br/assuntos/noticias/concurso/edital-no-8-setec-sof-mpo-de-20-08-2024-resultado-final-provas-discursivas-convocacao-avaliacao-biopsicossocial-heteroidentificacao-e-titulos.pdf">gov.br (PDF)</a></td>
+</tr>
+</tbody>
+</table>
