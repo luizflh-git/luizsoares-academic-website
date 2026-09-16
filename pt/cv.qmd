@@ -56,7 +56,12 @@ Ver [Pesquisa](pesquisa.qmd#laspp) para uma descrição.
 
 ::: {.cv-entry}
 **InteliColheita** — Universidade de Pernambuco (UPE), 2005–2006\
-Coordenou um projeto de pesquisa em apoio à decisão aplicando redes neurais a séries temporais agrícolas para previsão de colheita, incluindo um componente móvel de visualização de dados com dados georreferenciados de GPS. Colaborador: Prof. Fernando Buarque de Lima Neto.
+Aluno de iniciação científica por dois anos, sob orientação do Prof. Fernando Buarque de Lima Neto, em um projeto de apoio à decisão aplicando redes neurais a séries temporais agrícolas para previsão de colheita, incluindo um componente móvel de visualização de dados com dados georreferenciados de GPS.
+:::
+
+::: {.cv-entry}
+**Monitor de Inteligência Artificial** — Universidade de Pernambuco (UPE), um ano [A VERIFICAR: ano exato]\
+Sob supervisão do Prof. Fernando Buarque de Lima Neto.
 :::
 
 ## Experiência Profissional
@@ -69,9 +74,15 @@ Cargo: Técnico de Planejamento e Pesquisa (TPP)\
 :::
 
 ::: {.cv-entry}
+**Cebraspe** — Elaborador (contratado)\
+2018–2019, Brasil\
+Colaborador contratado para atividades relacionadas a avaliações/exames, em paralelo ao cargo na AGU abaixo.
+:::
+
+::: {.cv-entry}
 **Advocacia-Geral da União (AGU)** — Analista em Tecnologia da Informação\
 2017–2024, Brasil\
-Atuou no Laboratório de Recuperação de Ativos (Labra), em tratamento, análise e mineração de dados.
+Atuou no Laboratório de Recuperação de Ativos (Labra), em tratamento, análise e mineração de dados. Também coordenou projetos de inovação junto a equipes de bolsistas da Universidade de Brasília (UnB).
 :::
 
 ::: {.cv-entry}
@@ -93,9 +104,8 @@ Atuou em engenharia de software e desenvolvimento de sistemas, incluindo o siste
 :::
 
 ::: {.cv-entry}
-**Cebraspe** — Elaborador (contratado)\
-2018–2019, Brasil\
-Colaborador contratado para atividades relacionadas a avaliações/exames, em paralelo ao cargo na AGU acima.
+**Centro de Formação de Oficiais da Reserva (CPOR)** — Curso de Formação de Oficiais da Reserva, Arma de Infantaria\
+Turma de 2001 (2001–2002), Brasil
 :::
 
 ## Publicações
@@ -143,10 +153,6 @@ Governança de Dados; Introdução à Ciência de Dados — Tratamento de Dados;
 :::
 
 ::: {.cv-entry}
-Curso de Formação de Oficiais da Reserva, Infantaria — Centro de Formação de Oficiais da Reserva (CPOR), 2001–2002
-:::
-
-::: {.cv-entry}
 Listado entre os servidores do Ipea no processo seletivo da 8ª turma do Mestrado Profissional do Ipea (2025).\
 **[A VERIFICAR: resultado final de admissão/matrícula]**\
 *Fonte: Ipea, [Edital 2, 8ª turma](https://www.ipea.gov.br/portal/images/mestrado_profissional/arquivos/250702_edital_2_8_turma.pdf); Ipea, [Edital 3, 8ª turma](https://www.ipea.gov.br/portal/images/mestrado_profissional/arquivos/250711_edital_3_8_turma.pdf).*
@@ -170,7 +176,7 @@ Inglês — boa leitura e escrita; compreensão e fala em nível intermediário 
 ## Realizações Selecionadas {#realizacoes-selecionadas}
 
 ::: {.editorial-note}
-Registros factuais neutros, com fontes oficiais.
+Registros factuais neutros; fontes oficiais estão linkadas quando disponíveis.
 :::
 
 <table class="cv-table">
@@ -178,6 +184,13 @@ Registros factuais neutros, com fontes oficiais.
 <tr><th>Instituição</th><th>Processo</th><th>Ano</th><th>Resultado</th><th>Fonte</th></tr>
 </thead>
 <tbody>
+<tr>
+<td>Instituto de Pesquisa Econômica Aplicada (Ipea)</td>
+<td>Concurso público, Técnico de Planejamento e Pesquisa (TPP) — Desenvolvimento de Sistemas</td>
+<td>2023</td>
+<td>Aprovado</td>
+<td>[A VERIFICAR]</td>
+</tr>
 <tr>
 <td>Tribunal de Contas do Distrito Federal (TCDF)</td>
 <td>Concurso público (Cebraspe, Edital 8/2023), Auditor de Controle Externo — Tecnologia da Informação</td>

@@ -24,7 +24,7 @@ include-in-header:
 
 **Contexto.** Projeto de pesquisa, Universidade de Pernambuco (UPE), 2005–2006.
 
-**Meu papel.** Coordenei o projeto, com o Prof. Fernando Buarque de Lima Neto como colaborador.
+**Meu papel.** Aluno de iniciação científica por dois anos, sob orientação do Prof. Fernando Buarque de Lima Neto.
 
 **Métodos.** Redes neurais aplicadas a séries temporais agrícolas para previsão de colheita e apoio à decisão; um componente móvel de visualização de dados com dados georreferenciados de GPS.
 

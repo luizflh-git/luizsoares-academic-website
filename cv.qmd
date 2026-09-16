@@ -55,7 +55,12 @@ See [Research](research.qmd#laspp) for a description.
 
 ::: {.cv-entry}
 **InteliColheita** — Universidade de Pernambuco (UPE), 2005–2006\
-Coordinated a decision-support research project applying neural networks to agricultural time series for crop-harvest prediction, including a mobile data-visualization component using georeferenced GPS data. Collaborator: Prof. Fernando Buarque de Lima Neto.
+Undergraduate research (iniciação científica) student for two years, supervised by Prof. Fernando Buarque de Lima Neto, on a decision-support project applying neural networks to agricultural time series for crop-harvest prediction, including a mobile data-visualization component using georeferenced GPS data.
+:::
+
+::: {.cv-entry}
+**Teaching assistant (monitor), Artificial Intelligence** — Universidade de Pernambuco (UPE), one year [TO BE VERIFIED: exact year]\
+Under Prof. Fernando Buarque de Lima Neto.
 :::
 
 ## Professional Experience
@@ -68,9 +73,15 @@ Position: Técnico de Planejamento e Pesquisa (TPP) — **[TO BE VERIFIED: offic
 :::
 
 ::: {.cv-entry}
+**Cebraspe** — Elaborador (contracted)\
+2018–2019, Brazil\
+Contracted contributor for assessment/exam-related activities, concurrent with the AGU position below.
+:::
+
+::: {.cv-entry}
 **Advocacia-Geral da União (AGU)** — Analista em Tecnologia da Informação\
 2017–2024, Brazil\
-Worked in the Laboratório de Recuperação de Ativos (Labra) on data treatment, analysis, and data mining.
+Worked in the Laboratório de Recuperação de Ativos (Labra) on data treatment, analysis, and data mining. Also coordinated innovation projects with scholarship-holder (bolsista) teams from the Universidade de Brasília (UnB).
 :::
 
 ::: {.cv-entry}
@@ -92,9 +103,8 @@ Worked on software engineering and systems development, including the E-Fisco sy
 :::
 
 ::: {.cv-entry}
-**Cebraspe** — Elaborador (contracted)\
-2018–2019, Brazil\
-Contracted contributor for assessment/exam-related activities, concurrent with the AGU position above.
+**Centro de Formação de Oficiais da Reserva (CPOR)** — Reserve Officer Training, Infantry\
+2001 class (2001–2002), Brazil
 :::
 
 ## Publications
@@ -142,10 +152,6 @@ Governança de Dados; Introdução à Ciência de Dados — Tratamento de Dados;
 :::
 
 ::: {.cv-entry}
-Reserve officer training (Infantry) — Centro de Formação de Oficiais da Reserva (CPOR), 2001–2002
-:::
-
-::: {.cv-entry}
 Listed among Ipea staff in the selection process for the 8th class of Ipea's Professional Master's Program (2025).\
 **[TO BE VERIFIED: final admission/enrollment outcome]**\
 *Source: Ipea, [Edital 2, 8ª turma](https://www.ipea.gov.br/portal/images/mestrado_profissional/arquivos/250702_edital_2_8_turma.pdf); Ipea, [Edital 3, 8ª turma](https://www.ipea.gov.br/portal/images/mestrado_profissional/arquivos/250711_edital_3_8_turma.pdf).*
@@ -169,7 +175,7 @@ English — good reading and writing; intermediate to upper-intermediate speakin
 ## Selected Achievements {#selected-achievements}
 
 ::: {.editorial-note}
-Neutral factual entries with official sources.
+Neutral factual entries; official sources are linked where available.
 :::
 
 <table class="cv-table">
@@ -177,6 +183,13 @@ Neutral factual entries with official sources.
 <tr><th>Institution</th><th>Process</th><th>Year</th><th>Outcome</th><th>Source</th></tr>
 </thead>
 <tbody>
+<tr>
+<td>Institute for Applied Economic Research (Ipea)</td>
+<td>Public competitive examination, Técnico de Planejamento e Pesquisa (TPP) — Systems Development</td>
+<td>2023</td>
+<td>Approved</td>
+<td>[TO BE VERIFIED]</td>
+</tr>
 <tr>
 <td>Tribunal de Contas do Distrito Federal (TCDF)</td>
 <td>Public competitive examination (Cebraspe, Edital 8/2023), Auditor de Controle Externo — Information Technology / IT Systems</td>

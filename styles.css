@@ -78,7 +78,12 @@ main.content {
   max-width: 860px;
 }
 
-.quarto-title-banner {
+/* On the homepage (page-layout: full), the .hero block already shows the
+   name and an intro paragraph, so Quarto's automatic title/description
+   header would be a redundant duplicate right above it — hide it there.
+   Inner pages (page-layout: article) keep their title/description header,
+   since it's the only place those appear on those pages. */
+.page-layout-full #title-block-header {
   display: none;
 }
 

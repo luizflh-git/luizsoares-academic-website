@@ -82,6 +82,12 @@ year (2003–2008), Ipea start date (2024), the second USP complex-systems
 course (Sistemas Complexos I, SCX5002), competitive-exam outcomes (both
 approved), English proficiency detail — all per the CV PDF (Category A).
 
+- Ipea competitive examination (Técnico de Planejamento e Pesquisa, Systems
+  Development), approved 2023 — added to Selected Achievements per Luiz's
+  direct statement (Category A); no official edital/result PDF link
+  available yet, marked `[TO BE VERIFIED]` in the Source column on `cv.qmd`
+  / `pt/cv.qmd`. Add the link if/when Luiz provides one.
+
 ## Outstanding items to request from Luiz before final publication
 
 Full publication list beyond the one now added; ORCID / Google Scholar /

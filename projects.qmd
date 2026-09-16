@@ -23,7 +23,7 @@ include-in-header:
 
 **Context.** Research project, Universidade de Pernambuco (UPE), 2005–2006.
 
-**My role.** Coordinated the project, working with Prof. Fernando Buarque de Lima Neto as collaborator.
+**My role.** Undergraduate research (iniciação científica) student for two years, supervised by Prof. Fernando Buarque de Lima Neto.
 
 **Methods.** Neural networks applied to agricultural time series for crop-harvest prediction and decision support; a mobile data-visualization component using georeferenced GPS data.
 
