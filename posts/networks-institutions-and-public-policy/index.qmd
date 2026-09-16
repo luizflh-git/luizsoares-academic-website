@@ -17,5 +17,3 @@ This essay will connect network science to institutional analysis in the public 
 - Institutions and agencies as nodes in a network of information, resource, and authority flows.
 - How network structure might help explain bottlenecks, redundancy, or fragility in the delivery of public programs.
 - The limits of applying network methods to institutional data, including data availability and interpretability.
-
-*[CONTENT TO BE PROVIDED]*

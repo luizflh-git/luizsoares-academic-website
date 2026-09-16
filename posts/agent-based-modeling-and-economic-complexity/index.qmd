@@ -17,6 +17,4 @@ This essay will introduce agent-based modeling (ABM) as a way of studying how ma
 - What ABM adds relative to representative-agent or purely econometric approaches, and where it does not substitute for them.
 - A simple, illustrative example of an agent-based model (to be developed, with code, once written).
 - Connections to complex-systems concepts such as emergence, feedback, and path dependence.
-- How this relates to coursework completed in 2026 in agent-based economic models (see the [CV](../../cv.qmd#academic-activities)).
-
-*[CONTENT TO BE PROVIDED]*
+- How this relates to ongoing coursework (2026) in agent-based economic models (see the [CV](../../cv.qmd#academic-activities)).

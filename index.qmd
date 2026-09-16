@@ -32,7 +32,7 @@ I am a researcher whose training combines computer engineering with several year
 :::
 
 ::: {.profile-links}
-**Profiles:** ORCID *(to be added)* [·]{.sep} Google Scholar *(to be added)* [·]{.sep} GitHub *(to be added)* [·]{.sep} [LinkedIn](https://www.linkedin.com/in/luiz-soares-af/) [·]{.sep} [luizflh@gmail.com](mailto:luizflh@gmail.com)
+**Profiles:** ORCID *(to be added)* [·]{.sep} Google Scholar *(to be added)* [·]{.sep} [Lattes](http://lattes.cnpq.br/3684329955668828) [·]{.sep} GitHub *(to be added)* [·]{.sep} [LinkedIn](https://www.linkedin.com/in/luiz-soares-af/) [·]{.sep} [luizflh@gmail.com](mailto:luizflh@gmail.com)
 :::
 :::
 

@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description: "Thesis, peer-reviewed publications, institutional publications, working papers, and presentations."
+description: "Thesis, peer-reviewed publications, and institutional publications."
 page-layout: article
 toc: true
 toc-location: right
@@ -35,8 +35,22 @@ This thesis develops prototype-based pattern classifiers whose prototypes are op
 
 ## Peer-Reviewed Publications
 
-::: {.empty-section}
-No peer-reviewed publications yet. [CONTENT TO BE PROVIDED]
+::: {.pub-entry}
+<div class="pub-title">On the Efficient Design of a Prototype-Based Classifier Using Differential Evolution</div>
+<div class="pub-meta">
+Luiz A. Soares Filho · Guilherme A. Barreto · Conference paper, 2014<br>
+2014 IEEE Symposium on Differential Evolution (SDE), part of the IEEE Symposium Series on Computational Intelligence (SSCI 2014)<br>
+DOI: 10.1109/SDE.2014.7031535
+</div>
+<div class="pub-links">
+[DOI](https://doi.org/10.1109/SDE.2014.7031535) [IEEE Xplore](https://ieeexplore.ieee.org/document/7031535/) [PDF — UFC Institutional Repository](https://repositorio.ufc.br/ri/bitstream/riufc/70703/1/2014_eve_gabarreto.pdf)
+</div>
+:::
+
+This paper, based on my master's thesis research, combines ideas from Learning Vector Quantization (LVQ) with a differential-evolution-based automatic clustering approach to design prototype-based classifiers — determining both the optimal number of prototypes per class and their positions in the data space.
+
+::: {.editorial-note}
+Author name as published; my legal name is Luiz Soares de Andrade Filho (see the thesis above, published under that name).
 :::
 
 ## Institutional Publications
@@ -54,20 +68,3 @@ Role: technical lead for this update of the manual, as part of the Brazilian Pub
 </div>
 :::
 
-## Working Papers
-
-::: {.empty-section}
-None yet. [CONTENT TO BE PROVIDED]
-:::
-
-## Research Reports
-
-::: {.empty-section}
-None yet. [CONTENT TO BE PROVIDED]
-:::
-
-## Conference Presentations
-
-::: {.empty-section}
-None yet. [CONTENT TO BE PROVIDED]
-:::

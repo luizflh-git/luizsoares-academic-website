@@ -16,8 +16,18 @@ include-in-header:
 
 ## Research Projects
 
-::: {.empty-section}
-No research projects are publicly described yet. [CONTENT TO BE PROVIDED — to be added as the research agenda under [LASPP](research.qmd#laspp) and elsewhere develops.]
+::: {.project-entry}
+<div class="pub-title">InteliColheita</div>
+
+**Problem.** Predicting agricultural harvest outcomes and supporting related field decisions typically relies on manual observation and historical rules of thumb, with limited use of computational forecasting.
+
+**Context.** Research project, Universidade de Pernambuco (UPE), 2005–2006.
+
+**My role.** Coordinated the project, working with Prof. Fernando Buarque de Lima Neto as collaborator.
+
+**Methods.** Neural networks applied to agricultural time series for crop-harvest prediction and decision support; a mobile data-visualization component using georeferenced GPS data.
+
+**Outputs.** An intelligent decision-support prototype for crop-harvest prediction.
 :::
 
 ## Selected Applied Projects
@@ -37,5 +47,5 @@ No research projects are publicly described yet. [CONTENT TO BE PROVIDED — to 
 :::
 
 ::: {.editorial-note}
-Additional applied work at Ipea (data integration, data quality, pipeline automation) is not yet described here, pending a public, non-operational framing. [CONTENT TO BE PROVIDED]
+Additional applied work at Ipea (data integration, data quality, pipeline automation) is not yet described here, pending a public, non-operational framing.
 :::

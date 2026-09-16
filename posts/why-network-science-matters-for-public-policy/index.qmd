@@ -18,5 +18,3 @@ Public policy is often analyzed with tools built for aggregates — averages, to
 - A short, non-technical introduction to a few core network concepts (e.g., centrality, connectivity, community structure) aimed at a public-policy audience.
 - Concrete, publicly documentable examples of network-analytic thinking applied to administrative or institutional networks.
 - Open questions connecting this to the [current research questions](../../research.qmd#current-research-questions) on this site.
-
-*[CONTENT TO BE PROVIDED]*

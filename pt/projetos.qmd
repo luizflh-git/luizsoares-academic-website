@@ -17,8 +17,18 @@ include-in-header:
 
 ## Projetos de Pesquisa
 
-::: {.empty-section}
-Ainda não há projetos de pesquisa descritos publicamente. [CONTEÚDO A SER FORNECIDO — a ser incluído conforme a agenda de pesquisa em torno do [LASPP](pesquisa.qmd#laspp) e outras frentes se desenvolver.]
+::: {.project-entry}
+<div class="pub-title">InteliColheita</div>
+
+**Problema.** A previsão de resultados de colheitas agrícolas e as decisões de campo relacionadas costumam depender de observação manual e regras empíricas históricas, com pouco uso de previsão computacional.
+
+**Contexto.** Projeto de pesquisa, Universidade de Pernambuco (UPE), 2005–2006.
+
+**Meu papel.** Coordenei o projeto, com o Prof. Fernando Buarque de Lima Neto como colaborador.
+
+**Métodos.** Redes neurais aplicadas a séries temporais agrícolas para previsão de colheita e apoio à decisão; um componente móvel de visualização de dados com dados georreferenciados de GPS.
+
+**Produtos.** Um protótipo de apoio à decisão para previsão de colheitas agrícolas.
 :::
 
 ## Projetos Aplicados Selecionados
@@ -38,5 +48,5 @@ Ainda não há projetos de pesquisa descritos publicamente. [CONTEÚDO A SER FOR
 :::
 
 ::: {.editorial-note}
-Outros trabalhos aplicados no Ipea (integração de dados, qualidade de dados, automação de pipelines) ainda não estão descritos aqui, à espera de um enquadramento público e não operacional. [CONTEÚDO A SER FORNECIDO]
+Outros trabalhos aplicados no Ipea (integração de dados, qualidade de dados, automação de pipelines) ainda não estão descritos aqui, à espera de um enquadramento público e não operacional.
 :::

@@ -17,7 +17,7 @@ include-in-header:
 [Download Full CV (PDF)](files/cv-luiz-soares-en.pdf){.cv-download}
 
 ::: {.editorial-note}
-PDF pending; items not yet confirmed are marked **[TO BE VERIFIED]**.
+Items not yet confirmed are marked **[TO BE VERIFIED]**.
 :::
 
 ## Research Interests
@@ -27,14 +27,23 @@ Complex systems, network science, agent-based modeling, computational economics,
 ## Education
 
 ::: {.cv-entry}
-**M.Sc. in Teleinformatics Engineering** — Universidade Federal do Ceará (UFC), 2014\
+**Postgraduate Specialization in Information Systems Development and Management** — Faculdade JK, 2014–2015\
+360-hour *lato sensu* postgraduate program · Advisor: César Augusto Borges de Andrade · Brasília, Brazil
+:::
+
+::: {.cv-entry}
+**M.Sc. in Teleinformatics Engineering** — Universidade Federal do Ceará (UFC), 2011–2014\
 Concentration area: Signals and Systems · Advisor: Prof. Dr. Guilherme de Alencar Barreto\
 Thesis title, abstract, and link on the [Publications](publications.qmd) page.
 :::
 
 ::: {.cv-entry}
-**B.Sc. in Computer Engineering** — Universidade de Pernambuco (UPE)\
-[TO BE VERIFIED: graduation year]
+**B.Sc. in Computer Engineering** — Universidade de Pernambuco (UPE), 2003–2008\
+Undergraduate project: SIRP — Sistema Inteligente de Reconhecimento de Partituras (intelligent sheet-music recognition system) · Advisor: Prof. Carmelo José Albanez Bastos Filho
+:::
+
+::: {.cv-entry}
+**Technical/vocational course in Refrigeration and Air Conditioning** — Centro Federal de Educação Tecnológica (CEFET/PE), 1997–2001
 :::
 
 ## Research Experience
@@ -44,42 +53,96 @@ Thesis title, abstract, and link on the [Publications](publications.qmd) page.
 See [Research](research.qmd#laspp) for a description.
 :::
 
+::: {.cv-entry}
+**InteliColheita** — Universidade de Pernambuco (UPE), 2005–2006\
+Coordinated a decision-support research project applying neural networks to agricultural time series for crop-harvest prediction, including a mobile data-visualization component using georeferenced GPS data. Collaborator: Prof. Fernando Buarque de Lima Neto.
+:::
+
 ## Professional Experience
 
 ::: {.cv-entry}
 **Institute for Applied Economic Research (Ipea)** — Coordenação de Sistemas de Informação (COSIS), Data Science and Information Technology area\
-Position: Técnico de Planejamento e Pesquisa (TP) — **[TO BE VERIFIED: official English translation of position title]**\
-[TO BE VERIFIED: start date] – present\
+Position: Técnico de Planejamento e Pesquisa (TPP) — **[TO BE VERIFIED: official English translation of position title]**\
+2024 – present, Brasília · joined following a public competitive examination\
 *Source: Ipea, [Relação de Servidores, June 2025](https://www.ipea.gov.br/portal/images/acesso-a-informacao/servidores/250711_relacao_servidores_junho_2025.pdf); Ipea, [Plano de Trabalho 2026](https://www.ipea.gov.br/portal/images/institucional/plano_de_trabalho/251230_plano_de_trabalho_2026.pdf).*
 :::
 
 ::: {.cv-entry}
-**Brazilian Ministry of Planning** — Software Público Brasileiro (Brazilian Public Software) team\
-[TO BE VERIFIED: exact position title and dates]\
-Technical lead for the version 3.0 update (October 2016) of the program's Manual do Ofertante (Vendor's Manual).\
+**Advocacia-Geral da União (AGU)** — Analista em Tecnologia da Informação\
+2017–2024, Brazil\
+Worked in the Laboratório de Recuperação de Ativos (Labra) on data treatment, analysis, and data mining.
+:::
+
+::: {.cv-entry}
+**Brazilian Ministry of Planning, Budget and Management** — Analista de Tecnologia da Computação\
+2016, Brazil\
+Public-sector technology role associated with federal information systems and digital-government initiatives. As part of this role, served as technical lead for the version 3.0 update (October 2016) of the Manual do Ofertante (Vendor's Manual) for the Brazilian Public Software program (Software Público Brasileiro).\
 *Source: [Manual do Ofertante, v3.0](https://softwarepublico.gov.br/social/articles/0004/7028/Manual_do_Ofertante.pdf); noted as prior experience at the Ministry of Planning in UFC PPGETI's [egressos de destaque](https://ppgeti.ufc.br/pt/egressos-de-destaque/) page.*
+:::
+
+::: {.cv-entry}
+**DATAPREV** — Analista de Sistemas\
+2009–2014, Brazil
+:::
+
+::: {.cv-entry}
+**Policentro / Ecil** — Software Engineer / Software Development\
+2006–2009, Brazil\
+Worked on software engineering and systems development, including the E-Fisco system for the State of Pernambuco tax administration.
+:::
+
+::: {.cv-entry}
+**Cebraspe** — Elaborador (contracted)\
+2018–2019, Brazil\
+Contracted contributor for assessment/exam-related activities, concurrent with the AGU position above.
 :::
 
 ## Publications
 
-See the full [Publications](publications.qmd) page (thesis, institutional publications; no peer-reviewed publications yet).
-
-## Working Papers
-
-::: {.empty-section}
-None yet. [CONTENT TO BE PROVIDED]
-:::
+See the full [Publications](publications.qmd) page — a peer-reviewed conference paper, the master's thesis, and an institutional publication.
 
 ## Academic Activities {#academic-activities}
 
 ::: {.cv-entry}
 **Special student, SCX5015 — Modelos Econômicos Baseados em Agentes (Agent-Based Economic Models)**\
-Escola de Artes, Ciências e Humanidades (EACH), Universidade de São Paulo (USP) · 2026\
+Escola de Artes, Ciências e Humanidades (EACH), Universidade de São Paulo (USP)\
+Currently enrolled (second semester of 2026)\
 *Source: EACH-USP, [special-student approval listing](https://each.usp.br/pos/AlunoEspecial/secretaria/listar-aprovados.php).*
 :::
 
 ::: {.cv-entry}
-Additional coursework in complex systems, University of São Paulo (USP) — **[TO BE VERIFIED: exact course title, code, and term]**.
+**Sistemas Complexos I (SCX5002-4/7)** — EACH, Universidade de São Paulo (USP), 2025\
+Graduate-level course, 150 hours · Final grade: A · Attendance: 93%
+:::
+
+::: {.cv-entry}
+**Introduction to Complexity** — Santa Fe Institute, 2025\
+Foundational course in complexity science.
+:::
+
+::: {.cv-entry}
+**Introdução às Redes Complexas, com aplicações, utilizando Python e IA/LLM** — EACH, Universidade de São Paulo (USP), 2025
+:::
+
+::: {.cv-entry}
+**Fundamentos de Probabilidade e Estatística para Ciência de Dados** — Universidade de São Paulo (USP), 2025
+:::
+
+::: {.cv-entry}
+**Data Science coursework** — Escola Nacional de Administração Pública (Enap), 2024–2025\
+Governança de Dados; Introdução à Ciência de Dados — Tratamento de Dados; Modelos de Regressão; Redes Complexas.
+:::
+
+::: {.cv-entry}
+**Fundamentals of Deep Learning** — NVIDIA, 2022
+:::
+
+::: {.cv-entry}
+**Sun Certified Java Programmer (SCJP)** — Sun Microsystems, 2005
+:::
+
+::: {.cv-entry}
+Reserve officer training (Infantry) — Centro de Formação de Oficiais da Reserva (CPOR), 2001–2002
 :::
 
 ::: {.cv-entry}
@@ -94,38 +157,38 @@ See the [Projects](projects.qmd) page for research and selected applied projects
 
 ## Quantitative / Computational Methods
 
-Pattern recognition and computational intelligence (prototype-based classifiers, differential evolution and other optimization methods); data engineering and ETL; Python; workflow orchestration (Airflow); containerized deployment (Kubernetes); business intelligence and data visualization (Power BI); relational databases and data architecture/quality; and, as part of my current research transition, agent-based modeling and introductory network analysis.
+Pattern recognition and computational intelligence (prototype-based classifiers, neural networks, differential evolution and other optimization methods); data engineering and ETL; Python, Java, SQL; workflow orchestration (Airflow); containerized deployment (Kubernetes); business intelligence and data visualization (Power BI); relational databases, data architecture, quality, and governance; time-series analysis; network analysis; and, as part of my current research transition, agent-based modeling.
 
 ## Languages
 
 ::: {.cv-entry}
 Portuguese — native\
-English — used for academic reading and writing **[TO BE VERIFIED: proficiency level / certification, if any]**
+English — good reading and writing; intermediate to upper-intermediate speaking and listening; studied at Cultura Inglesa (2000–2005), with ongoing advanced academic-English preparation
 :::
 
 ## Selected Achievements {#selected-achievements}
 
 ::: {.editorial-note}
-Neutral factual entries with official sources; outcomes not stated in the source documents are marked [TO BE VERIFIED].
+Neutral factual entries with official sources.
 :::
 
 <table class="cv-table">
 <thead>
-<tr><th>Institution</th><th>Process</th><th>Year</th><th>Outcome / Ranking</th><th>Source</th></tr>
+<tr><th>Institution</th><th>Process</th><th>Year</th><th>Outcome</th><th>Source</th></tr>
 </thead>
 <tbody>
 <tr>
 <td>Tribunal de Contas do Distrito Federal (TCDF)</td>
-<td>Public competitive examination (Cebraspe, Edital 8/2023) — reached final stage (objective and essay exams)</td>
-<td>2023</td>
-<td>[TO BE VERIFIED]</td>
+<td>Public competitive examination (Cebraspe, Edital 8/2023), Auditor de Controle Externo — Information Technology / IT Systems</td>
+<td>2023–2024</td>
+<td>Approved</td>
 <td><a href="https://cdn.cebraspe.org.br/concursos/TC_DF_23/arquivos/ED_8_2023_TCDF_RES_FINAL_OBJ_E_PROV_DISC.PDF">Cebraspe (PDF)</a></td>
 </tr>
 <tr>
-<td>Brazilian Ministry of Planning</td>
-<td>Public competitive examination (Edital SETEC/SOF-MPO 8/2024) — reached final stages, including essay exams, biopsychosocial evaluation, hetero-identification, and titles assessment</td>
+<td>Brazilian Ministry of Planning and Budget (MPO)</td>
+<td>Public competitive examination (Edital SETEC/SOF-MPO 8/2024), Analista de Planejamento e Orçamento (APO) — Budget Systems</td>
 <td>2024</td>
-<td>[TO BE VERIFIED]</td>
+<td>Approved</td>
 <td><a href="https://www.gov.br/planejamento/pt-br/assuntos/noticias/concurso/edital-no-8-setec-sof-mpo-de-20-08-2024-resultado-final-provas-discursivas-convocacao-avaliacao-biopsicossocial-heteroidentificacao-e-titulos.pdf">gov.br (PDF)</a></td>
 </tr>
 </tbody>

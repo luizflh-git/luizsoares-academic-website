@@ -31,7 +31,7 @@ Interesso-me por como a estrutura e a interação — e não apenas médias agre
 
 ## Modelagem Baseada em Agentes
 
-Interesso-me pela modelagem baseada em agentes (agent-based modeling, ABM) como forma de estudar como padrões macroeconômicos e sociais emergem da interação de agentes heterogêneos e com racionalidade limitada — como complemento, e não substituto, às abordagens analíticas e econométricas tradicionais. Em 2026, concluí uma disciplina sobre modelos econômicos baseados em agentes como aluno especial na Universidade de São Paulo (USP); ver [Atividades Acadêmicas](cv.qmd#atividades-academicas) na página do CV.
+Interesso-me pela modelagem baseada em agentes (agent-based modeling, ABM) como forma de estudar como padrões macroeconômicos e sociais emergem da interação de agentes heterogêneos e com racionalidade limitada — como complemento, e não substituto, às abordagens analíticas e econométricas tradicionais. Concluí uma disciplina de pós-graduação em sistemas complexos (Sistemas Complexos I) na Universidade de São Paulo (USP) em 2025, e atualmente curso, como aluno especial, uma disciplina sobre modelos econômicos baseados em agentes na mesma instituição (segundo semestre de 2026); ver [Atividades Acadêmicas](cv.qmd#atividades-academicas) na página do CV.
 
 ## Economia Computacional
 
@@ -57,8 +57,3 @@ Estas são questões em aberto que atualmente motivam minhas leituras e meu trab
 2. Sob quais condições modelos baseados em agentes do comportamento econômico geram percepções que complementam as abordagens econométricas padrão, em vez de apenas reproduzi-las?
 3. Como a estrutura de redes interorganizacionais ou interinstitucionais no governo molda a difusão de informação, recursos ou a adoção de políticas?
 4. Quais métodos computacionais são mais adequados para caracterizar complexidade (por exemplo, emergência, não linearidade, dependência de trajetória) em sistemas econômicos e sociais, usando o tipo de dado administrativo disponível no setor público brasileiro?
-5. *[CONTEÚDO A SER FORNECIDO — questão(ões) adicional(is) a ser(em) incluída(s) conforme a agenda de pesquisa se desenvolve.]*
-
----
-
-*[A VERIFICAR: esta página será atualizada conforme a agenda de pesquisa, a descrição oficial do LASPP e eventuais produtos resultantes forem confirmados.]*

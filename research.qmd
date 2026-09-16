@@ -30,7 +30,7 @@ I am interested in how structure and interaction — rather than aggregate avera
 
 ## Agent-Based Modeling
 
-I am interested in agent-based modeling (ABM) as a way to study how macro-level economic and social patterns emerge from the interaction of heterogeneous, boundedly rational agents — as a complement to, not a replacement for, analytical and econometric approaches. In 2026, I completed coursework in agent-based economic models as a special student at the University of São Paulo (USP); see [Academic Activities](cv.qmd#academic-activities) on the CV page.
+I am interested in agent-based modeling (ABM) as a way to study how macro-level economic and social patterns emerge from the interaction of heterogeneous, boundedly rational agents — as a complement to, not a replacement for, analytical and econometric approaches. I completed a graduate course in complex systems (Sistemas Complexos I) at the University of São Paulo (USP) in 2025, and am currently a special student in a course on agent-based economic models at the same institution (second semester of 2026); see [Academic Activities](cv.qmd#academic-activities) on the CV page.
 
 ## Computational Economics
 
@@ -56,8 +56,3 @@ These are open questions currently motivating my reading and work, not findings 
 2. Under what conditions do agent-based models of economic behavior yield insights that complement standard econometric approaches, rather than merely reproducing them?
 3. How does the structure of inter-organizational or inter-agency networks in government shape the diffusion of information, resources, or policy adoption?
 4. What computational methods are best suited to characterizing complexity (e.g., emergence, non-linearity, path dependence) in economic and social systems using the kind of administrative data available in the Brazilian public sector?
-5. *[CONTENT TO BE PROVIDED — additional question(s) to be added as the research agenda develops.]*
-
----
-
-*[TO BE VERIFIED: this page will be updated as the research agenda, LASPP's official description, and any resulting outputs are confirmed.]*

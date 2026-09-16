@@ -1,6 +1,6 @@
 ---
 title: "Publicações"
-description: "Dissertação, publicações revisadas por pares, publicações institucionais, working papers e apresentações."
+description: "Dissertação, publicações revisadas por pares e publicações institucionais."
 lang: pt-BR
 page-layout: article
 toc: true
@@ -33,8 +33,22 @@ Esta dissertação desenvolve classificadores de padrões baseados em protótipo
 
 ## Publicações Revisadas por Pares
 
-::: {.empty-section}
-Ainda não há publicações revisadas por pares. [CONTEÚDO A SER FORNECIDO]
+::: {.pub-entry}
+<div class="pub-title">On the Efficient Design of a Prototype-Based Classifier Using Differential Evolution</div>
+<div class="pub-meta">
+Luiz A. Soares Filho · Guilherme A. Barreto · Artigo de conferência, 2014<br>
+2014 IEEE Symposium on Differential Evolution (SDE), parte do IEEE Symposium Series on Computational Intelligence (SSCI 2014)<br>
+DOI: 10.1109/SDE.2014.7031535
+</div>
+<div class="pub-links">
+[DOI](https://doi.org/10.1109/SDE.2014.7031535) [IEEE Xplore](https://ieeexplore.ieee.org/document/7031535/) [PDF — Repositório Institucional da UFC](https://repositorio.ufc.br/ri/bitstream/riufc/70703/1/2014_eve_gabarreto.pdf)
+</div>
+:::
+
+Este artigo, baseado na pesquisa da minha dissertação de mestrado, combina ideias de Learning Vector Quantization (LVQ) com uma abordagem de clusterização automática baseada em evolução diferencial para o projeto de classificadores baseados em protótipos — determinando tanto o número ótimo de protótipos por classe quanto suas posições no espaço de dados.
+
+::: {.editorial-note}
+Nome do autor como publicado; meu nome civil é Luiz Soares de Andrade Filho (ver a dissertação acima, publicada sob esse nome).
 :::
 
 ## Publicações Institucionais
@@ -52,20 +66,3 @@ Papel: responsável técnico por esta atualização do manual, como integrante d
 </div>
 :::
 
-## Working Papers
-
-::: {.empty-section}
-Nenhum até o momento. [CONTEÚDO A SER FORNECIDO]
-:::
-
-## Relatórios de Pesquisa
-
-::: {.empty-section}
-Nenhum até o momento. [CONTEÚDO A SER FORNECIDO]
-:::
-
-## Apresentações em Conferências
-
-::: {.empty-section}
-Nenhuma até o momento. [CONTEÚDO A SER FORNECIDO]
-:::
